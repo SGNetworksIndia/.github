@@ -1,7 +1,7 @@
 # SGNetworks
 
 **SGNetworks** is an independent technology and software initiative
-founded and maintained by [Sagnik Ganguly](https://github.com/SagnikGanguly96).
+founded by [Sagnik Ganguly](https://github.com/SagnikGanguly96).
 
 ## About
 
