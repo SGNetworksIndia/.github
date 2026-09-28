@@ -11,7 +11,7 @@ technology projects.
 
 ## Projects
 
-- **XPE** — eXtensible Programming Language Platform Ecosystem
+- **XPE** — eXtensible Programming Language(XPL) Platform Ecosystem
 - **SGSoft** — Software and application platform
 - **Careers4You** — Job and career platform
 - **SGNUIKit** — UI development system
