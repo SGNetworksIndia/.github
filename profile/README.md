@@ -11,11 +11,14 @@ technology projects.
 
 ## Projects
 
-- **XPE** — SGNetworks Programming Ecosystem
+- **XPE** — eXtensible Programming Language Platform Ecosystem
 - **SGSoft** — Software and application platform
 - **Careers4You** — Job and career platform
 - **SGNUIKit** — UI development system
 - Other independent technology projects
+- **NetMate** — Social media & community platform
+- **EstateHunt** — Real-estate platform
+- **Questry** — Search engine
 
 ## Official Website
 
