@@ -26,7 +26,7 @@ technology projects.
 - **NetMate** — Social media and community platform
 - **EstateHunt** — Real-estate platform
 - **Questry** — Search engine
-- Other independent technology projects
+- Other projects
 
 ## Official Links
 
